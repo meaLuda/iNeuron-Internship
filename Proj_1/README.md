@@ -31,7 +31,4 @@ learning algorithms that’s best fit for the above case.
 ## Setup
 
 
-
-
-
 ## 🎯 Inference demo

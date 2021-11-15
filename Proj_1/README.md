@@ -11,6 +11,9 @@ that releases thyroid hormones in regulating the rate of body's metabolism.
 The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid
 disease or not.
 
+## Aim is to create an app to predict if someone has thyroid or not based on inputs 
+## from doctors and lab technician. 
+
 ## Approach:
 The classical machine learning tasks like Data Exploration, Data Cleaning,
 Feature Engineering, Model Building and Model Testing. Try out different machine

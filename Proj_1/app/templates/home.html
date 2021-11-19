@@ -6,12 +6,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thyroid Project: iNeuron Open Internship</title>
     <style>
-        body{
-            color:rgb(125, 137, 245),
+
+        h1{
+            margin: auto; 
+            width:250px;
+        }
+
+        form { 
+            margin: 0 auto; 
+            width:250px;
         }
     </style>
 </head>
-<body>
-    
+<body style="background-color:#1c87c9;">
+    <h1 style="text-decoration: cadetblue; "> TEST IF PATIENT HAS HYPOTHYROID</h1>
+
+    <br>
+    <br>
+
+    <form action="{{url_for('predict') }}"  method='post'>
+        
+        <label for="age">Patient Age:</label><br>
+        <input type="text" name="age" value=""><br>
+
+        <label for="TSH">Patient TSH:</label><br>
+        <input type="text" name="TSH" value=""><br>
+
+        <label for="T3">Patient T3:</label><br>
+        <input type="text" name="T3" value=""><br>
+
+        <label for="TT4">Patient TT4:</label><br>
+        <input type="text" name="TT4" value=""><br>
+
+        <label for="T4U">Patient T4U:</label><br>
+        <input type="text" name="T4U" value=""><br>
+
+        <label for="FTI">Patient FTI:</label><br>
+        <input type="text" name="FTI" value=""><br>
+
+        <br><br>
+        <button type='submit'> PREDICT </button>
+       
+
+    </form>
 </body>
 </html>

@@ -15,7 +15,7 @@
 # Project 2: 
 
 ### 
-## Progess:  From: [] To: [Ongoing-------]
+## Progess:  From: [] To: []
 
 
 

@@ -7,7 +7,10 @@
 
 ### ```The main goal is was to predict the estimated risk on a patient's chance of obtaining thyroid disease or not.```
 
-## Progess:  From: [Nov/01/21] To: [Ongoing-------]
+## Progess:  From: [Nov/01/21] To: [Done]
+### Documentaion.......
+#### High Level Document [https://docs.google.com/document/d/1y4Y9YUgJ032Yw42IcbZArHxK9cAxs3lFIfdYvg3fqWw/edit?usp=sharing]
+
 
 # Project 2: 
 
@@ -18,9 +21,4 @@
 
 # Project contributors:
 
-## 1. Munyala Eliud: Tasks[Project lead]👷‍♂️
-## 2. Christine Muthee
-## 3. Francis Gikaru
-## 4. Gathoni Njogu
-## 5. Ian Gathumbi
-## 5. Natasha Gwena
+## 1. Munyala Eliud: Tasks👷‍♂️
